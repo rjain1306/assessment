@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "https://courageous-heliotrope-2f0a27.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
